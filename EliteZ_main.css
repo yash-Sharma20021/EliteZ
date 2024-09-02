@@ -95,7 +95,7 @@ nav a:hover{
     margin: 0;
 }
 
-.hero button{
+.hero  a{
     padding: 12px 25px;
     font-size: 18px;
     border: none;
@@ -106,7 +106,7 @@ nav a:hover{
     transition: background-color 0.3s ease;
 }
 
-.hero button:hover{
+.hero a:hover{
     background-color: #3f4c57;
     text-decoration: underline;
     color: greenyellow;
